@@ -1,6 +1,4 @@
-# Python Game Projects
 
-A collection of Python game projects using Pygame.
 
 ## Selected Tasks
 
